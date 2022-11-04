@@ -1,1 +1,2 @@
 So this is a change i made from the github UI 
+This was a second change i made via the command line to simulate a merge conflict
