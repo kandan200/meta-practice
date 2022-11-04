@@ -1,6 +1,0 @@
-So this is a change i made from the github UI 
-<<<<<<< HEAD
-So this a the third change to the file made from gitBash terminal using VIM command
-=======
-This was a second change i made via the command line to simulate a merge conflict
->>>>>>> ceb4b56cd536a652ec60b180edd1a499fccc6458
