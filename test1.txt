@@ -1,1 +1,2 @@
 So this is a change i made from the github UI 
+So this a the third change to the file made from gitBash terminal using VIM command
